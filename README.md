@@ -10,6 +10,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<iframe href="https://thecodinglove.com/when-my-manager-asks-me-if-im-ready-for-a-great-challenge" width="512px"/>
+![]("https://thecodinglove.com/when-my-manager-asks-me-if-im-ready-for-a-great-challenge")
 
 ---
